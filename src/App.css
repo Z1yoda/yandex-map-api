@@ -1,0 +1,12 @@
+.map-container {
+  padding-top: 40px;
+  margin: 0 auto;
+  width: 1500px;
+  height: 680px;
+}
+
+.map-controls {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
