@@ -31,11 +31,11 @@ function App() {
           <FullscreenControl options={{ float: "left" }} />
           <RouteButton options={{ float: "right" }} />
           <RouteEditor options={{ float: "right" }} />
-          <RulerControl options={{ float: "right" }} />
+          <RulerControl />
           <SearchControl options={{ float: "right" }} />
-          <ZoomControl options={{ float: "right" }} />
-          <TypeSelector options={{ float: "right" }} />
-          <TrafficControl options={{ float: "right" }} />
+          <ZoomControl  />
+          <TypeSelector  />
+          <TrafficControl  />
         </Map>
       </YMaps>
       </div>
